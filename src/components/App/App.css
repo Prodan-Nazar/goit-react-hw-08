@@ -1,0 +1,47 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0 16px;
+  font-size: 24px;
+  margin-bottom: 16px;
+  text-align: start;
+  text-indent: 40px;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+  margin-bottom: 15px;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  padding: 10px;
+}
